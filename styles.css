@@ -1,0 +1,32 @@
+body {
+    background-color: rgb(13, 173, 226);
+}
+
+h1 {
+    margin-left: 600px;
+    font-size: 40px;
+    color: purple;
+}
+
+.Channel {
+    margin-left: 60px;
+}
+
+.livecounts {
+    margin-left: 350px;
+}
+
+.Support {
+    margin-left: 70px;
+}
+
+.Latest {
+    margin-left: 100px;
+}
+
+.King {
+    margin-left: 570px;
+    font-size: 40px;
+    font-family: VCR EAS;
+    color: blue
+}

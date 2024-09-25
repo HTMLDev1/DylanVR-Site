@@ -1,0 +1,12 @@
+body {
+    background-color: rgb(40, 150, 255);
+}
+
+.PageTitle {
+    margin-left: 500px;
+}
+
+.HomePage {
+    margin-left: 600px;
+    font-size: 30px;
+}
